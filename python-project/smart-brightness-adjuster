@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /usr/local/bin/smart-brightness-adjuster/
+python main.py
